@@ -1,0 +1,29 @@
+.property-container {
+    width: 90%;
+    height: 200px;
+    background-color:#DEDEDE;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  
+  .property-details{
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .house-delete {
+    background-color:red;
+    padding: 2px;
+  }
+  
+  .image-container {
+    width: 210px;
+    height: 160px;
+  }
+  
+  .property-finances {
+    text-align: left;
+  }
